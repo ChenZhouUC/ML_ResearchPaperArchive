@@ -1,4 +1,4 @@
-# <img src="https://github.com/ChenZhouUC/ML_ResearchPaperArchive/blob/master/assets/ml.png" height="25" alt="logo"/> ML Research Paper Archive
+# <img src="https://github.com/ChenZhouUC/ML_ResearchPaperArchive/blob/master/assets/ml.png" height="35" alt="logo"/> ML Research Paper Archive
 
 <div align=center>
 <img src="https://github.com/ChenZhouUC/ML_ResearchPaperArchive/blob/master/assets/ML_concept.png" alt="concept" width="600" align="center"/>
