@@ -10,10 +10,10 @@ This is an Archive for research papers concerning Machine Learning.
 
 ### Meaningful Marks
 
-#### Named with Exact Title and Author(s)
+#### Named with Exact Titles and Author(s)
 
 The papers named with exact titles and author(s) have been researched into and remarked by myself.
 
-#### Start with a *
+#### Start with an Asterisk(*)
 
-The papers whose names start with a * stand for a half read because of abstruseness, at least for me at the moment.
+An asterisk(*) before the file names stands for a half read because of abstruseness—at least for me at the moment.
