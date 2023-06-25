@@ -8,6 +8,12 @@
 
 This is an Archive for research papers concerning Machine Learning.
 
-### Labeled with Name
+### Meaningful Marks
 
-Papers with exact names were marked and researched by me in detail. For those not properly named, I would be looking forward to whatever opinion you provided. It is all in my plan to research further into related fields in which I am interested and update this repository accordingly but aperiodically. 
+#### Named with Exact Title and Author(s)
+
+The papers named with exact titles and author(s) have been researched into and remarked by myself.
+
+#### Start with a *
+
+The papers whose names start with a * stand for a half read because of abstruseness, at least for me at the moment.
