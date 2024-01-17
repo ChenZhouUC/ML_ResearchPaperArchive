@@ -16,4 +16,4 @@ The papers named with exact titles and author(s) have been researched into and r
 
 #### Start with an Asterisk(*)
 
-An asterisk(*) before the file names stands for a half read because of abstruseness—at least for me at the moment.
+An asterisk(*) before the file names stands for a half read because of time constraints or abstruseness—at least for me at the moment.
